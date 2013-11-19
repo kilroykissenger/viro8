@@ -1,0 +1,28 @@
+<h1>Current Parties</h1>
+<h3>Administrators Only</h3>
+
+<table>
+  <tr>
+    <th>Party</th>
+    <th>Start Time</th>
+    <th>Url</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @parties.each do |party| %>
+  <tr>
+    <td><%= party.party_name %></td>
+    <td><%= party.start_date %></td>
+    <td><%= party.url %></td>
+    <td><%= link_to 'Show', party %></td>
+    <td><%= link_to 'Edit', edit_party_path(party) %></td>
+    <td><%= link_to 'Destroy', party, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Party', new_party_path %>

@@ -1,0 +1,27 @@
+<h1>All Queued Songs</h1>
+<h2>(fluxes)</h2>
+<h3>Administrators Only</h3>
+
+<table>
+  <tr>
+    <th>Party</th>
+    <th>Song</th>
+    <th>Score</th>
+    <th></th>
+  </tr>
+
+<% @fluxes.each do |flux| %>
+  <tr>
+    <td><%= flux.party_id %></td>
+    <td><%= flux.song.song_name %></td>
+    <td><%= flux.score %></td>
+    <td><%= link_to 'Show', flux %></td>
+    <td><%= link_to 'Edit', edit_flux_path(flux) %></td>
+    <td><%= link_to 'Destroy', flux, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Flux', new_flux_path %>
