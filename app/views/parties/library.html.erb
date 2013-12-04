@@ -17,7 +17,7 @@
 </div>
 
 <div id="contentdiv">
-  <div id="notice"><%= notice %></div>
+  <p id="notice"><%= notice %></p>
   <div class="party_header">
       <h1><%= @party.party_name %>  <span class="button">View Party Details</span></h1>
       <div class="party_description">
@@ -33,24 +33,24 @@
 
 
   <div class="playlist">
-    <h2><%= @party.party_name %> Setlist:</h2>
+    <h2><%= @party.party_name %> Library:</h2>
 
       <% if @party.songs.empty? %>
           No songs have been added to this party's playlist.
       <% else %>
         <div>
           <ul class="playlist_container">
-          <% @party.songs.select{|s| s.score > 0}.sort!{|f1,f2|f2.score.to_i <=> f1.score.to_i}.each do |f| %>
+          <% @party.songs.select{|s| s.score == 0}.sort!{|f1,f2|f2.score.to_i <=> f1.score.to_i}.each do |f| %>
               <li class="playlist_row cf"> 
                 <p><%= f.song_name %></p>
                 <p><%= f.song_artist %></p>
-                <p><%= f.score %> Votes</p>
+
 
                 <p>
                   <% if !session[:votes].include? f.id %>
-                    <%= link_to 'Vote up!', :controller => 'songs', :action => 'vote_up', :id => f.id %>
+                    <%= link_to 'Add to Setlist!', :controller => 'songs', :action => 'vote_up', :id => f.id %>
                   <% else %>
-                    Voted up!
+                    Added to Setlist!
                   <% end %>
                 </p>
 
@@ -63,8 +63,7 @@
   </div>
 
   <div style="text-align:center;">
-    <%= link_to 'Add a Song!', :controller => 'parties', :action => 'library'%> |
-    <%= link_to 'Edit', edit_party_path(@party) %> |
-    <%= link_to 'Back', parties_path %>
+    <%= link_to 'Back to Setlist', :controller => 'parties', :action => 'show'%>
+
   </div>
 </div> 

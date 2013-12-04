@@ -2,6 +2,7 @@
 
 <table>
   <tr>
+    <th>Party</th>
     <th>Song name</th>
     <th>Song artist</th>
     <th>Song album</th>
@@ -14,6 +15,7 @@
 
 <% @songs.each do |song| %>
   <tr>
+    <td><%= song.party_id %></td>
     <td><%= song.song_name %></td>
     <td><%= song.song_artist %></td>
     <td><%= song.song_album %></td>

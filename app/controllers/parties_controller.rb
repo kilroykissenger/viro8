@@ -29,6 +29,24 @@ class PartiesController < ApplicationController
     end
   end
 
+  def library
+    @party = Party.find(params[:id])
+    session[:score]
+    respond_to do |format|
+      format.html # show.html.erb
+      format.json { render json: @party }
+    end
+  end
+
+  def player
+    @party = Party.find(params[:id])
+    session[:score]
+    respond_to do |format|
+      format.html # show.html.erb
+      format.json { render json: @party }
+    end
+  end
+
   # GET /parties/new
   # GET /parties/new.json
   def new
@@ -52,7 +70,8 @@ class PartiesController < ApplicationController
 
   def create
 
-    @party = Party.new(params[:party])
+    @party = Party.create
+    @party.update_attributes(params[:party])
 
 
     i = (rand * 1000000).round

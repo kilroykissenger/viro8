@@ -12,6 +12,23 @@
 
 .party_header h1{
 	text-align: center;
+	padding: 0px;
+}
+
+.party_header h1 span{
+	position: static; 
+	display: block;
+	margin: 10px auto 0px auto;
+}
+
+
+.party_description{padding: 0px 10px 10px 10px;}
+
+.party_description h2 span{
+	display: block;
+	float: none;
+	width: 100%;
+	margin: 10px 0px 0px 0px;
 }
 
 .playlist h2{
@@ -28,6 +45,7 @@ ul.playlist_container li{
 	text-align: center;
 	margin: 0px 0px 10px 0px;
 }
+
 
 #contentdiv ul.playlist_container li p:last-child{
 	float: right;

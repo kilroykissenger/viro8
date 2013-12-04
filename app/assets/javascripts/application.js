@@ -34,7 +34,7 @@ $(function(){
 		delayValue += 100;
 	})//end playlist for loop
 
-	$(".party_header h1").click(function(){
+	$(".party_header h1 span").click(function(){
 		$(".party_description").slideToggle();
 
 	});//end party header click function

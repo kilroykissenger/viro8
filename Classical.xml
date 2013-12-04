@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-12-03T21:13:58Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>D764EB3F2F0BD222</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7579</key>
+		<dict>
+			<key>Track ID</key><integer>7579</integer>
+			<key>Name</key><string>In Paradisum</string>
+			<key>Artist</key><string>28 Days Later Soundtrack</string>
+			<key>Album</key><string>28 Days Later Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3168256</integer>
+			<key>Total Time</key><integer>131892</integer>
+			<key>Date Modified</key><date>2009-10-05T21:37:44Z</date>
+			<key>Date Added</key><date>2013-07-14T06:23:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>772</integer>
+			<key>Persistent ID</key><string>551CCB8E06BBD803</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/28%20Days%20Later%20Soundtrack/28%20Days%20Later%20Soundtrack/In%20Paradisum.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7595</key>
+		<dict>
+			<key>Track ID</key><integer>7595</integer>
+			<key>Name</key><string>Taxi (Ave Maria)</string>
+			<key>Artist</key><string>28 Days Later Soundtrack</string>
+			<key>Album</key><string>28 Days Later Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3103170</integer>
+			<key>Total Time</key><integer>128835</integer>
+			<key>Date Modified</key><date>2009-10-05T21:37:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:23:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-19T19:42:04Z</date>
+			<key>Normalization</key><integer>1328</integer>
+			<key>Persistent ID</key><string>16ED97AFE0CC2663</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/28%20Days%20Later%20Soundtrack/28%20Days%20Later%20Soundtrack/Taxi%20(Ave%20Maria).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9325</key>
+		<dict>
+			<key>Track ID</key><integer>9325</integer>
+			<key>Name</key><string>Bach - Cello Suite 1 (yoyo ma)  (2)</string>
+			<key>Artist</key><string>Bach</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2361344</integer>
+			<key>Total Time</key><integer>147565</integer>
+			<key>Date Modified</key><date>2011-05-22T05:19:49Z</date>
+			<key>Date Added</key><date>2013-07-14T06:24:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3459164276</integer>
+			<key>Play Date UTC</key><date>2013-08-12T19:57:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-01T02:19:55Z</date>
+			<key>Persistent ID</key><string>26CF44A050388C34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Bach/Unknown%20Album/Bach%20-%20Cello%20Suite%201%20(yoyo%20ma)%20%20(2).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12241</key>
+		<dict>
+			<key>Track ID</key><integer>12241</integer>
+			<key>Name</key><string>01 - Arthur Rubinstein - Mazurkas, Op. 6 Mazurkas, Op. 6-No. 1 in F-sharp Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2616656</integer>
+			<key>Total Time</key><integer>162899</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>773</integer>
+			<key>Persistent ID</key><string>841F8B2C5AAF243D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/01%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%206%20Mazurkas,%20Op.%206-No.%201%20in%20F-sharp%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12243</key>
+		<dict>
+			<key>Track ID</key><integer>12243</integer>
+			<key>Name</key><string>02 - Arthur Rubinstein - Mazurkas, Op. 6 Mazurkas, Op. 6-No. 2 in C-sharp Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2667647</integer>
+			<key>Total Time</key><integer>166086</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:03Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>757</integer>
+			<key>Persistent ID</key><string>7CD5704588EDDC7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/02%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%206%20Mazurkas,%20Op.%206-No.%202%20in%20C-sharp%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12245</key>
+		<dict>
+			<key>Track ID</key><integer>12245</integer>
+			<key>Name</key><string>03 - Arthur Rubinstein - Mazurkas, Op. 6 Mazurkas, Op. 6-No. 3 in E [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2075399</integer>
+			<key>Total Time</key><integer>129071</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:04Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>941</integer>
+			<key>Persistent ID</key><string>E6E19C7735AF62D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/03%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%206%20Mazurkas,%20Op.%206-No.%203%20in%20E%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12247</key>
+		<dict>
+			<key>Track ID</key><integer>12247</integer>
+			<key>Name</key><string>04 - Arthur Rubinstein - Mazurkas, Op. 6 Mazurkas, Op. 6-No. 4 in E-Flat Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>747543</integer>
+			<key>Total Time</key><integer>46080</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:04Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>507</integer>
+			<key>Persistent ID</key><string>B176A6CB07C2B600</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/04%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%206%20Mazurkas,%20Op.%206-No.%204%20in%20E-Flat%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12249</key>
+		<dict>
+			<key>Track ID</key><integer>12249</integer>
+			<key>Name</key><string>05 - Arthur Rubinstein - Mazurkas, Op. 7 Mazurkas, Op. 7-No. 1 in B-flat [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2571516</integer>
+			<key>Total Time</key><integer>160078</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:05Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>681</integer>
+			<key>Persistent ID</key><string>B5870619ADCDDD6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/05%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%207%20Mazurkas,%20Op.%207-No.%201%20in%20B-flat%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12251</key>
+		<dict>
+			<key>Track ID</key><integer>12251</integer>
+			<key>Name</key><string>06 - Arthur Rubinstein - Mazurkas, Op. 7 Mazurkas, Op. 7-No. 2 in A Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3435438</integer>
+			<key>Total Time</key><integer>214073</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:07Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>530</integer>
+			<key>Persistent ID</key><string>763AD424DCB805E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/06%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%207%20Mazurkas,%20Op.%207-No.%202%20in%20A%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12253</key>
+		<dict>
+			<key>Track ID</key><integer>12253</integer>
+			<key>Name</key><string>07 - Arthur Rubinstein - Mazurkas, Op. 7 Mazurkas, Op. 7-No. 3 in F Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2827307</integer>
+			<key>Total Time</key><integer>176065</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:08Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>736</integer>
+			<key>Persistent ID</key><string>EB08F71B7FD244FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/07%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%207%20Mazurkas,%20Op.%207-No.%203%20in%20F%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12255</key>
+		<dict>
+			<key>Track ID</key><integer>12255</integer>
+			<key>Name</key><string>08 - Arthur Rubinstein - Mazurkas, Op. 7 Mazurkas, Op. 7-No. 4 in A-flat [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1115347</integer>
+			<key>Total Time</key><integer>69067</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:08Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>818</integer>
+			<key>Persistent ID</key><string>3792C31D980654C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/08%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%207%20Mazurkas,%20Op.%207-No.%204%20in%20A-flat%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12257</key>
+		<dict>
+			<key>Track ID</key><integer>12257</integer>
+			<key>Name</key><string>09 - Arthur Rubinstein - Mazurkas, Op. 7 Mazurkas, Op. 7-No. 5 in C [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>667712</integer>
+			<key>Total Time</key><integer>41090</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:09Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>529</integer>
+			<key>Persistent ID</key><string>B636C880213E3E12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/09%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%207%20Mazurkas,%20Op.%207-No.%205%20in%20C%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12259</key>
+		<dict>
+			<key>Track ID</key><integer>12259</integer>
+			<key>Name</key><string>10 - Arthur Rubinstein - Mazurkas, Op. 17 Mazurkas, Op. 17-No. 1 in B-flat</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2459503</integer>
+			<key>Total Time</key><integer>153077</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:10Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>904</integer>
+			<key>Persistent ID</key><string>4672544214CF3F21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/10%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2017%20Mazurkas,%20Op.%2017-No.%201%20in%20B-flat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12261</key>
+		<dict>
+			<key>Track ID</key><integer>12261</integer>
+			<key>Name</key><string>11 - Arthur Rubinstein - Mazurkas, Op. 17 Mazurkas, Op. 17-No. 2 in E Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1963386</integer>
+			<key>Total Time</key><integer>122070</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:10Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>587</integer>
+			<key>Persistent ID</key><string>4A6DE07D00663028</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/11%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2017%20Mazurkas,%20Op.%2017-No.%202%20in%20E%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12263</key>
+		<dict>
+			<key>Track ID</key><integer>12263</integer>
+			<key>Name</key><string>12 - Arthur Rubinstein - Mazurkas, Op. 17 Mazurkas, Op. 17-No. 3 in A-flat</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4251712</integer>
+			<key>Total Time</key><integer>265090</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:12Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>402</integer>
+			<key>Persistent ID</key><string>22863B1E11D4B433</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/12%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2017%20Mazurkas,%20Op.%2017-No.%203%20in%20A-flat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12265</key>
+		<dict>
+			<key>Track ID</key><integer>12265</integer>
+			<key>Name</key><string>13 - Arthur Rubinstein - Mazurkas, Op. 17 Mazurkas, Op. 17-No. 4 in A Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4443556</integer>
+			<key>Total Time</key><integer>277080</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:14Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>792</integer>
+			<key>Persistent ID</key><string>73B016FC1FBEDBB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/13%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2017%20Mazurkas,%20Op.%2017-No.%204%20in%20A%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12267</key>
+		<dict>
+			<key>Track ID</key><integer>12267</integer>
+			<key>Name</key><string>14 - Arthur Rubinstein - Mazurkas, Op. 24 Mazurkas, Op. 24-No. 1 in G Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2779660</integer>
+			<key>Total Time</key><integer>173087</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:15Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>499</integer>
+			<key>Persistent ID</key><string>7B0A3FFA7D5EC222</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/14%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2024%20Mazurkas,%20Op.%2024-No.%201%20in%20G%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12269</key>
+		<dict>
+			<key>Track ID</key><integer>12269</integer>
+			<key>Name</key><string>15 - Arthur Rubinstein - Mazurkas, Op. 24 Mazurkas, Op. 24-No. 2 in C [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2235477</integer>
+			<key>Total Time</key><integer>139075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:16Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>819</integer>
+			<key>Persistent ID</key><string>E21751113383D5A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/15%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2024%20Mazurkas,%20Op.%2024-No.%202%20in%20C%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12271</key>
+		<dict>
+			<key>Track ID</key><integer>12271</integer>
+			<key>Name</key><string>16 - Arthur Rubinstein - Mazurkas, Op. 24 Mazurkas, Op. 24-No. 3 in A-flat</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2123464</integer>
+			<key>Total Time</key><integer>132075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:17Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>405</integer>
+			<key>Persistent ID</key><string>E8ABAF1724D58477</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/16%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2024%20Mazurkas,%20Op.%2024-No.%203%20in%20A-flat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12273</key>
+		<dict>
+			<key>Track ID</key><integer>12273</integer>
+			<key>Name</key><string>17 - Arthur Rubinstein - Mazurkas, Op. 24 Mazurkas, Op. 24-No. 4 in B-flat Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4971438</integer>
+			<key>Total Time</key><integer>310073</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:19Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>722</integer>
+			<key>Persistent ID</key><string>96DA7A142F5A6D21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/17%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2024%20Mazurkas,%20Op.%2024-No.%204%20in%20B-flat%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12275</key>
+		<dict>
+			<key>Track ID</key><integer>12275</integer>
+			<key>Name</key><string>18 - Arthur Rubinstein - Mazurkas, Op. 30 Mazurkas, Op. 30-No. 1 in C Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1643647</integer>
+			<key>Total Time</key><integer>102086</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>375</integer>
+			<key>Persistent ID</key><string>D9269B90CCADEA28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/18%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2030%20Mazurkas,%20Op.%2030-No.%201%20in%20C%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12277</key>
+		<dict>
+			<key>Track ID</key><integer>12277</integer>
+			<key>Name</key><string>19 - Arthur Rubinstein - Mazurkas, Op. 30 Mazurkas, Op. 30-No. 2 in B Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1499451</integer>
+			<key>Total Time</key><integer>93074</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>743</integer>
+			<key>Persistent ID</key><string>CA952B0691C68362</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/19%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2030%20Mazurkas,%20Op.%2030-No.%202%20in%20B%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12279</key>
+		<dict>
+			<key>Track ID</key><integer>12279</integer>
+			<key>Name</key><string>20 - Arthur Rubinstein - Mazurkas, Op. 30 Mazurkas, Op. 30-No. 3 in D-flat</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2843608</integer>
+			<key>Total Time</key><integer>177084</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:22Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>781</integer>
+			<key>Persistent ID</key><string>F2BBD973BACF8181</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/20%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2030%20Mazurkas,%20Op.%2030-No.%203%20in%20D-flat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12281</key>
+		<dict>
+			<key>Track ID</key><integer>12281</integer>
+			<key>Name</key><string>21 - Arthur Rubinstein - Mazurkas, Op. 30 Mazurkas, Op. 30-No. 4 in C-sharp Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3659464</integer>
+			<key>Total Time</key><integer>228075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:23Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>825</integer>
+			<key>Persistent ID</key><string>04612C10FF124394</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/21%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2030%20Mazurkas,%20Op.%2030-No.%204%20in%20C-sharp%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12283</key>
+		<dict>
+			<key>Track ID</key><integer>12283</integer>
+			<key>Name</key><string>22 - Arthur Rubinstein - Mazurkas, Op. 33 Mazurkas, Op. 33-No. 1 in G-sharp Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1627347</integer>
+			<key>Total Time</key><integer>101067</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:24Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>509</integer>
+			<key>Persistent ID</key><string>2081FA992B0266CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/22%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2033%20Mazurkas,%20Op.%2033-No.%201%20in%20G-sharp%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12285</key>
+		<dict>
+			<key>Track ID</key><integer>12285</integer>
+			<key>Name</key><string>23 - Arthur Rubinstein - Mazurkas, Op. 33 Mazurkas, Op. 33-No. 2 in D [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2715712</integer>
+			<key>Total Time</key><integer>169090</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:25Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>822</integer>
+			<key>Persistent ID</key><string>A98CAC2A664E6B21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/23%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2033%20Mazurkas,%20Op.%2033-No.%202%20in%20D%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12287</key>
+		<dict>
+			<key>Track ID</key><integer>12287</integer>
+			<key>Name</key><string>24 - Arthur Rubinstein - Mazurkas, Op. 33 Mazurkas, Op. 33-No. 3 in C</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1611464</integer>
+			<key>Total Time</key><integer>100075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>330</integer>
+			<key>Persistent ID</key><string>01C8C586C75D0E40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/24%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2033%20Mazurkas,%20Op.%2033-No.%203%20in%20C.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12289</key>
+		<dict>
+			<key>Track ID</key><integer>12289</integer>
+			<key>Name</key><string>25 - Arthur Rubinstein - Mazurkas, Op. 33 Mazurkas, Op. 33-No. 4 in B Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5374351</integer>
+			<key>Total Time</key><integer>335255</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:28Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1014</integer>
+			<key>Persistent ID</key><string>933B5B1C03F05F4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%201/25%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2033%20Mazurkas,%20Op.%2033-No.%204%20in%20B%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12291</key>
+		<dict>
+			<key>Track ID</key><integer>12291</integer>
+			<key>Name</key><string>01 - Arthur Rubinstein - Mazurkas, Op. 41 Mazurkas, Op. 41-No. 1 in C-Sharp Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3448825</integer>
+			<key>Total Time</key><integer>214909</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:29Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1022</integer>
+			<key>Persistent ID</key><string>26487B86F877D8FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/01%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2041%20Mazurkas,%20Op.%2041-No.%201%20in%20C-Sharp%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12293</key>
+		<dict>
+			<key>Track ID</key><integer>12293</integer>
+			<key>Name</key><string>02 - Arthur Rubinstein - Mazurkas, Op. 41 Mazurkas, Op. 41-No. 2 in E Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2187424</integer>
+			<key>Total Time</key><integer>136071</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:30Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>734</integer>
+			<key>Persistent ID</key><string>1C680EA4C54C6D10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/02%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2041%20Mazurkas,%20Op.%2041-No.%202%20in%20E%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12295</key>
+		<dict>
+			<key>Track ID</key><integer>12295</integer>
+			<key>Name</key><string>03 - Arthur Rubinstein - Mazurkas, Op. 41 Mazurkas, Op. 41-No. 3 in B [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1211489</integer>
+			<key>Total Time</key><integer>75075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:31Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>607</integer>
+			<key>Persistent ID</key><string>8CE92DE0C93F3F1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/03%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2041%20Mazurkas,%20Op.%2041-No.%203%20in%20B%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12297</key>
+		<dict>
+			<key>Track ID</key><integer>12297</integer>
+			<key>Name</key><string>04 - Arthur Rubinstein - Mazurkas, Op. 41 Mazurkas, Op. 41-No. 4 in A-flat [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2187424</integer>
+			<key>Total Time</key><integer>136071</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>392</integer>
+			<key>Persistent ID</key><string>3626D36931C6D5E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/04%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2041%20Mazurkas,%20Op.%2041-No.%204%20in%20A-flat%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12299</key>
+		<dict>
+			<key>Track ID</key><integer>12299</integer>
+			<key>Name</key><string>05 - Arthur Rubinstein - Mazurkas, Op. 50 Mazurkas, Op. 50-No. 1 in G</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2475398</integer>
+			<key>Total Time</key><integer>154070</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:33Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>551</integer>
+			<key>Persistent ID</key><string>D22875EDB92885B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/05%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2050%20Mazurkas,%20Op.%2050-No.%201%20in%20G.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12301</key>
+		<dict>
+			<key>Track ID</key><integer>12301</integer>
+			<key>Name</key><string>06 - Arthur Rubinstein - Mazurkas, Op. 50 Mazurkas, Op. 50-No. 2 in A-flat</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3083528</integer>
+			<key>Total Time</key><integer>192078</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:34Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>454</integer>
+			<key>Persistent ID</key><string>EF824753F5F3D55B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/06%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2050%20Mazurkas,%20Op.%2050-No.%202%20in%20A-flat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12303</key>
+		<dict>
+			<key>Track ID</key><integer>12303</integer>
+			<key>Name</key><string>07 - Arthur Rubinstein - Mazurkas, Op. 50 Mazurkas, Op. 50-No. 3 in C-sharp Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5211359</integer>
+			<key>Total Time</key><integer>325067</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>759</integer>
+			<key>Persistent ID</key><string>032638C24A67B22F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/07%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2050%20Mazurkas,%20Op.%2050-No.%203%20in%20C-sharp%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12305</key>
+		<dict>
+			<key>Track ID</key><integer>12305</integer>
+			<key>Name</key><string>08 - Arthur Rubinstein - Mazurkas, Op. 56 Mazurkas, Op. 56-No. 1 in B</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4251724</integer>
+			<key>Total Time</key><integer>265090</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:38Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>951</integer>
+			<key>Persistent ID</key><string>193451DFE9BB0C6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/08%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2056%20Mazurkas,%20Op.%2056-No.%201%20in%20B.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12307</key>
+		<dict>
+			<key>Track ID</key><integer>12307</integer>
+			<key>Name</key><string>09 - Arthur Rubinstein - Mazurkas, Op. 56 Mazurkas, Op. 56-No. 2 in C</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1739372</integer>
+			<key>Total Time</key><integer>108068</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:39Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>812</integer>
+			<key>Persistent ID</key><string>5D2D59B37839A9C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/09%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2056%20Mazurkas,%20Op.%2056-No.%202%20in%20C.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12309</key>
+		<dict>
+			<key>Track ID</key><integer>12309</integer>
+			<key>Name</key><string>10 - Arthur Rubinstein - Mazurkas, Op. 56 Mazurkas, Op. 56-No. 3 in C Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5659411</integer>
+			<key>Total Time</key><integer>353071</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:41Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>692</integer>
+			<key>Persistent ID</key><string>A0FA67CF290E3C63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/10%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2056%20Mazurkas,%20Op.%2056-No.%203%20in%20C%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12311</key>
+		<dict>
+			<key>Track ID</key><integer>12311</integer>
+			<key>Name</key><string>11 - Arthur Rubinstein - Mazurkas, Op. 59 Mazurkas, Op. 59-No. 1 in A Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3771489</integer>
+			<key>Total Time</key><integer>235075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:43Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>593</integer>
+			<key>Persistent ID</key><string>EC29F10723501709</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/11%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2059%20Mazurkas,%20Op.%2059-No.%201%20in%20A%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12313</key>
+		<dict>
+			<key>Track ID</key><integer>12313</integer>
+			<key>Name</key><string>12 - Arthur Rubinstein - Mazurkas, Op. 59 Mazurkas, Op. 59-No. 2 in A-flat</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2571528</integer>
+			<key>Total Time</key><integer>160078</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:44Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>660</integer>
+			<key>Persistent ID</key><string>0B7815DE2DB7B23F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/12%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2059%20Mazurkas,%20Op.%2059-No.%202%20in%20A-flat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12315</key>
+		<dict>
+			<key>Track ID</key><integer>12315</integer>
+			<key>Name</key><string>13 - Arthur Rubinstein - Mazurkas, Op. 59 Mazurkas, Op. 59-No. 3 in F-sharp Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3611411</integer>
+			<key>Total Time</key><integer>225071</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:46Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>426</integer>
+			<key>Persistent ID</key><string>5EB2EBD3EDCFBA6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/13%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2059%20Mazurkas,%20Op.%2059-No.%203%20in%20F-sharp%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12317</key>
+		<dict>
+			<key>Track ID</key><integer>12317</integer>
+			<key>Name</key><string>14 - Arthur Rubinstein - Mazurkas, Op. 63 Mazurkas, Op. 63-No. 1 in B</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2267672</integer>
+			<key>Total Time</key><integer>141087</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:47Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>708</integer>
+			<key>Persistent ID</key><string>B64E36C0DA3CFC5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/14%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2063%20Mazurkas,%20Op.%2063-No.%201%20in%20B.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12319</key>
+		<dict>
+			<key>Track ID</key><integer>12319</integer>
+			<key>Name</key><string>15 - Arthur Rubinstein - Mazurkas, Op. 63 Mazurkas, Op. 63-No. 2 in F Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1739372</integer>
+			<key>Total Time</key><integer>108068</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:48Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>347</integer>
+			<key>Persistent ID</key><string>9BBF5C49C75CFF42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/15%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2063%20Mazurkas,%20Op.%2063-No.%202%20in%20F%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12321</key>
+		<dict>
+			<key>Track ID</key><integer>12321</integer>
+			<key>Name</key><string>16 - Arthur Rubinstein - Mazurkas, Op. 63 Mazurkas, Op. 63-No. 3 in C-sharp Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2299437</integer>
+			<key>Total Time</key><integer>143072</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:49Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>602</integer>
+			<key>Persistent ID</key><string>2182C8BD27523C84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/16%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2063%20Mazurkas,%20Op.%2063-No.%203%20in%20C-sharp%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12323</key>
+		<dict>
+			<key>Track ID</key><integer>12323</integer>
+			<key>Name</key><string>17 - Arthur Rubinstein - Mazurkas, Op. 67 Mazurkas, Op. 67-No. 1 in G</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1195607</integer>
+			<key>Total Time</key><integer>74083</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:49Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>840</integer>
+			<key>Persistent ID</key><string>6DB3B81CB5709116</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/17%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2067%20Mazurkas,%20Op.%2067-No.%201%20in%20G.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12325</key>
+		<dict>
+			<key>Track ID</key><integer>12325</integer>
+			<key>Name</key><string>18 - Arthur Rubinstein - Mazurkas, Op. 67 Mazurkas, Op. 67-No. 2 in G Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1963398</integer>
+			<key>Total Time</key><integer>122070</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>443</integer>
+			<key>Persistent ID</key><string>8228878D3D4CD135</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/18%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2067%20Mazurkas,%20Op.%2067-No.%202%20in%20G%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12327</key>
+		<dict>
+			<key>Track ID</key><integer>12327</integer>
+			<key>Name</key><string>19 - Arthur Rubinstein - Mazurkas, Op. 67 Mazurkas, Op. 67-No. 3 in C</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1643659</integer>
+			<key>Total Time</key><integer>102086</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:51Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>545</integer>
+			<key>Persistent ID</key><string>391FA43B72098B3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/19%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2067%20Mazurkas,%20Op.%2067-No.%203%20in%20C.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12329</key>
+		<dict>
+			<key>Track ID</key><integer>12329</integer>
+			<key>Name</key><string>20 - Arthur Rubinstein - Mazurkas, Op. 67 Mazurkas, Op. 67-No. 4 in A Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3051346</integer>
+			<key>Total Time</key><integer>190066</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>285</integer>
+			<key>Persistent ID</key><string>095B4A986BD80B11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/20%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2067%20Mazurkas,%20Op.%2067-No.%204%20in%20A%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12331</key>
+		<dict>
+			<key>Track ID</key><integer>12331</integer>
+			<key>Name</key><string>21 - Arthur Rubinstein - Mazurkas, Op. 68 Mazurkas, Op. 68-No. 1 in C</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1691724</integer>
+			<key>Total Time</key><integer>105090</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:53Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>731</integer>
+			<key>Persistent ID</key><string>8928D8DC57E3DCA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/21%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2068%20Mazurkas,%20Op.%2068-No.%201%20in%20C.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12333</key>
+		<dict>
+			<key>Track ID</key><integer>12333</integer>
+			<key>Name</key><string>22 - Arthur Rubinstein - Mazurkas, Op. 68 Mazurkas, Op. 68-No. 2 in A Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2747489</integer>
+			<key>Total Time</key><integer>171075</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:54Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>255</integer>
+			<key>Persistent ID</key><string>5666BF580D1919BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/22%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2068%20Mazurkas,%20Op.%2068-No.%202%20in%20A%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12335</key>
+		<dict>
+			<key>Track ID</key><integer>12335</integer>
+			<key>Name</key><string>23 - Arthur Rubinstein - Mazurkas, Op. 68 Mazurkas, Op. 68-No. 3 in F</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1467698</integer>
+			<key>Total Time</key><integer>91088</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:55Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-06T03:36:12Z</date>
+			<key>Normalization</key><integer>514</integer>
+			<key>Persistent ID</key><string>5B5DC7A05E70DA8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/23%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2068%20Mazurkas,%20Op.%2068-No.%203%20in%20F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12337</key>
+		<dict>
+			<key>Track ID</key><integer>12337</integer>
+			<key>Name</key><string>24 - Arthur Rubinstein - Mazurkas, Op. 68 Mazurkas, Op. 68-No. 4 in F Minor [1999 Remastered]</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3179659</integer>
+			<key>Total Time</key><integer>198086</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:56Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>167</integer>
+			<key>Persistent ID</key><string>70C0DA3391672F20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/24%20-%20Arthur%20Rubinstein%20-%20Mazurkas,%20Op.%2068%20Mazurkas,%20Op.%2068-No.%204%20in%20F%20Minor%20%5B1999%20Remastered%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12339</key>
+		<dict>
+			<key>Track ID</key><integer>12339</integer>
+			<key>Name</key><string>25 - Arthur Rubinstein - Mazurka Op. posth. in A Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3243607</integer>
+			<key>Total Time</key><integer>202083</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:57Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>312</integer>
+			<key>Persistent ID</key><string>2FA15EF69BDF9E5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/25%20-%20Arthur%20Rubinstein%20-%20Mazurka%20Op.%20posth.%20in%20A%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12341</key>
+		<dict>
+			<key>Track ID</key><integer>12341</integer>
+			<key>Name</key><string>26 - Arthur Rubinstein - Mazurka Op. posth. in A Minor</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2494206</integer>
+			<key>Total Time</key><integer>155245</integer>
+			<key>Date Modified</key><date>2011-05-22T17:39:58Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>661</integer>
+			<key>Persistent ID</key><string>EEEA6942A64E79D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Chopin/CD%202/26%20-%20Arthur%20Rubinstein%20-%20Mazurka%20Op.%20posth.%20in%20A%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25947</key>
+		<dict>
+			<key>Track ID</key><integer>25947</integer>
+			<key>Name</key><string>Monday </string>
+			<key>Artist</key><string>Ludovico Einaudi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5667396</integer>
+			<key>Total Time</key><integer>353567</integer>
+			<key>Date Modified</key><date>2011-05-22T18:14:10Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-08T20:01:47Z</date>
+			<key>Normalization</key><integer>687</integer>
+			<key>Persistent ID</key><string>5609089BC390DD92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Ludovico%20Einaudi/Unknown%20Album/Monday.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26815</key>
+		<dict>
+			<key>Track ID</key><integer>26815</integer>
+			<key>Name</key><string>Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in C Major, BWV 846</string>
+			<key>Artist</key><string>Maurizio Pollini</string>
+			<key>Album Artist</key><string>Maurizio Pollini</string>
+			<key>Composer</key><string>Johann Sebastian Bach</string>
+			<key>Album</key><string>Prelude in C Major - Discovery Download</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4217258</integer>
+			<key>Total Time</key><integer>112161</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-11-06T21:28:58Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-11-23T08:00:00Z</date>
+			<key>Normalization</key><integer>86</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bach, J.S.: The Well-tempered Clavier</string>
+			<key>Sort Artist</key><string>Maurizio Pollini</string>
+			<key>Sort Name</key><string>Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in C Major, BWV 846</string>
+			<key>Persistent ID</key><string>B9F414CA06032FE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maurizio%20Pollini/Prelude%20in%20C%20Major%20-%20Discovery%20Download/01%20Das%20Wohltemperierte%20Klavier_%20Book%201,%20BWV%20846-869_%20Prelude%20in%20C%20Major,%20BWV%20846.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28129</key>
+		<dict>
+			<key>Track ID</key><integer>28129</integer>
+			<key>Name</key><string>Concerto for Two Pianos</string>
+			<key>Artist</key><string>Mozart</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6961187</integer>
+			<key>Total Time</key><integer>434416</integer>
+			<key>Date Modified</key><date>2009-10-06T00:57:16Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>487</integer>
+			<key>Persistent ID</key><string>62EF0C2A9D3C7EBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Mozart/Unknown%20Album/Concerto%20for%20Two%20Pianos.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28131</key>
+		<dict>
+			<key>Track ID</key><integer>28131</integer>
+			<key>Name</key><string>Lacrimosa</string>
+			<key>Artist</key><string>Mozart</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4528061</integer>
+			<key>Total Time</key><integer>188656</integer>
+			<key>Date Modified</key><date>2008-12-27T00:23:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-31T19:03:58Z</date>
+			<key>Normalization</key><integer>468</integer>
+			<key>Persistent ID</key><string>6931CE8F4890292E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Mozart/Unknown%20Album/Lacrimosa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28133</key>
+		<dict>
+			<key>Track ID</key><integer>28133</integer>
+			<key>Name</key><string>Piano Concerto No. 21</string>
+			<key>Artist</key><string>Mozart</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5338244</integer>
+			<key>Total Time</key><integer>333609</integer>
+			<key>Date Modified</key><date>2008-12-27T00:23:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>105</integer>
+			<key>Persistent ID</key><string>575FA3F2C76007FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Mozart/Unknown%20Album/Piano%20Concerto%20No.%2021.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34473</key>
+		<dict>
+			<key>Track ID</key><integer>34473</integer>
+			<key>Name</key><string>Adagio for Strings</string>
+			<key>Artist</key><string>Samuel Barber</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9654735</integer>
+			<key>Total Time</key><integer>602775</integer>
+			<key>Date Modified</key><date>2011-05-22T18:14:15Z</date>
+			<key>Date Added</key><date>2013-07-14T06:41:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Normalization</key><integer>228</integer>
+			<key>Persistent ID</key><string>A39ED6C83F3F8031</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Samuel%20Barber/Unknown%20Album/Adagio%20for%20Strings.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Classical</string>
+			<key>Playlist ID</key><integer>87321</integer>
+			<key>Playlist Persistent ID</key><string>65A28BBC1FC2871C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12269</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25947</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28133</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

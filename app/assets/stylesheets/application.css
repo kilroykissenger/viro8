@@ -257,7 +257,8 @@
 
 #nav_container{
 	height: 50px; 
-	width: 100%; 
+	width: 100%;
+    margin-bottom: 20px;
 	background: #7d7e7d;
 	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzdkN2U3ZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZTBlMGUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
 	background: -moz-linear-gradient(top, #7d7e7d 0%, #0e0e0e 100%);
@@ -278,10 +279,11 @@
 #nav > ul{}
 #nav > ul > li{float: left; position: relative;height: 50px; text-shadow: 2px 2px 1px #000;}
 #nav > ul > li:first-child{font-family: sourcecodeb; font-size: 30px; text-transform: uppercase; color: #007eff; height: 50px; line-height: 52px; margin: 0px 20px 0px 0px;}
+#nav > ul > li:first-child > span{color: #fff;}
 #nav > ul > li:last-child{float: right; }
 #nav > ul > li > a{background: none;height: 50px; line-height: 52px; font-size: 25px; color: #ccc; font-family: sourcecodexl; text-decoration: none; text-transform: uppercase; padding: 0px 20px; display: block;-moz-transition:.3s;-webkit-transition:.3s;-o-transition:.3s;transition:.3s;}
 #nav > ul > li:hover > a{color: #007eff;}
-#nav > ul > li > div{position: absolute; left: -100000px; }
+#nav > ul > li > div{position: absolute; left: -100000px; z-index: 100;}
 #nav > ul > li:hover > div{left: -90px;}
 #nav > ul > li > div ul{background: #0e0e0e; border: 1px solid #000; border-top: none; border-radius: 0px 0px 10px 10px; opacity: 0; -moz-transition:.3s;-webkit-transition:.3s;-o-transition:.3s;transition:.3s; padding: 10px 20px 20px 20px; }
 #nav > ul > li:hover > div ul{opacity: 1;}
@@ -289,9 +291,29 @@
 #nav > ul > li > div ul li a{ display: block; font-family: sourcecoder; font-size: 20px; color: #eee; text-decoration: none; text-transform: uppercase;}
 #nav > ul > li > div ul li a:hover{color: #007eff; -moz-transition:.3s;-webkit-transition:.3s;-o-transition:.3s;transition:.3s;}
 
-#contentdiv{width: 980px; margin: 20px auto 20px auto; opacity: 0;}
+#contentdiv{width: 980px; margin: 0px auto 0px auto; opacity: 0;}
 
+.button{
+    text-align: center;
+    padding: 5px;
+    background: #0066cf;
+    color: #fff;
+    line-height: 18px;
+    font-size: 14px;
+    text-decoration: none; 
+    text-transform: uppercase;
+    font-family: arial; 
+    -moz-transition:.3s;
+    -webkit-transition:.3s;
+    -o-transition:.3s;
+    transition:.3s;
+}
 
+.button:hover{
+    text-decoration: none;
+    background: #fff;
+    color: #0066cf;
+}
 
 #contentdiv a{
     text-align: center;
@@ -335,6 +357,19 @@
 	font-size: 40px; 
 	margin: 0px 0px 20px 0px; 
 	text-transform: uppercase;
+    position: relative;
+        -moz-transition:.3s;
+    -webkit-transition:.3s;
+    -o-transition:.3s;
+    transition:.3s;
+}
+
+.party_header h1 span{ 
+    position: absolute; 
+    right: 10px; 
+    top: 0px; 
+    width: 170px; 
+    text-align: center;
 }
 
 .party_description{
@@ -370,6 +405,10 @@
 	font-family: cabinr;
 	font-size: 25px; 
 	margin: 10px 0px 10px 0px;
+        -moz-transition:.3s;
+    -webkit-transition:.3s;
+    -o-transition:.3s;
+    transition:.3s;
 }
 
 .playlist_titles{
@@ -403,6 +442,10 @@ ul.playlist_container li{
 	padding: 5px 1%;
 
 	opacity: 0;
+        -moz-transition:.3s;
+    -webkit-transition:.3s;
+    -o-transition:.3s;
+    transition:.3s;
 }
 
 ul.playlist_container li:nth-of-type(odd){
@@ -412,6 +455,7 @@ ul.playlist_container li:nth-of-type(odd){
 ul.playlist_container li p{
 	float: left; 
 	width: 20%;
+    min-height: 10px;
 	color: #fff;
 	text-align: center;
 	font-family: arial; 
@@ -423,7 +467,7 @@ ul.playlist_container li p{
 
 
 ul.playlist_container li p:first-child{
-	width: 60%;
+	width: 40%;
 	text-align: left;
 }
 
@@ -469,7 +513,7 @@ h1.form_titles{
 	padding: 5px; 
 }
 
-.field .date_select{
+.field .select{
 	float: left;
 	padding: 5px; 
 }

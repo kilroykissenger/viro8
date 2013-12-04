@@ -36,5 +36,30 @@
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
+	<dict>		
+		<key>7736</key>
+		<dict>
+			<key>Track ID</key><integer>7736</integer>
+			<key>Name</key><string>I Ran Again</string>
+			<key>Artist</key><string>A Flock Of Seagulls</string>
+			<key>Album</key><string>A Flock Of Seagulls</string>
+			<key>Genre</key><string>Retro</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4926746</integer>
+			<key>Total Time</key><integer>307252</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2009-10-05T21:39:34Z</date>
+			<key>Date Added</key><date>2013-07-14T06:23:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Flock Of Seagulls</string>
+			<key>Sort Artist</key><string>Flock Of Seagulls</string>
+			<key>Persistent ID</key><string>F33FA9203A3F551A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/A%20Flock%20Of%20Seagulls/A%20Flock%20Of%20Seagulls/I%20Ran%20Again.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>

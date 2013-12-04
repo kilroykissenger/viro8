@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-12-01T23:36:30Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>D764EB3F2F0BD222</string>
+	<key>Tracks</key>
+	<dict>
+		<key>9305</key>
+		<dict>
+			<key>Track ID</key><integer>9305</integer>
+			<key>Name</key><string>Out of My Mind (Clark Kent Remix)</string>
+			<key>Artist</key><string>B.O.B. ft. Nicki Minaj</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8778286</integer>
+			<key>Total Time</key><integer>218801</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-16T05:14:46Z</date>
+			<key>Date Added</key><date>2013-07-14T06:24:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3463647558</integer>
+			<key>Play Date UTC</key><date>2013-10-03T17:19:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E53373EFACC031D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/B.O.B.%20ft.%20Nicki%20Minaj/Unknown%20Album/Out%20of%20My%20Mind%20(Clark%20Kent%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12227</key>
+		<dict>
+			<key>Track ID</key><integer>12227</integer>
+			<key>Name</key><string>Freaks And Geeks</string>
+			<key>Artist</key><string>Childish Gambino</string>
+			<key>Album</key><string>Freaks And Geeks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5463691</integer>
+			<key>Total Time</key><integer>226507</integer>
+			<key>Date Modified</key><date>2012-12-18T05:34:55Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:24Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-01T02:24:20Z</date>
+			<key>Persistent ID</key><string>D99AF3F52DB1A7F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Childish%20Gambino/Freaks%20And%20Geeks/Freaks%20And%20Geeks.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16473</key>
+		<dict>
+			<key>Track ID</key><integer>16473</integer>
+			<key>Name</key><string>Ghosts n Stuff</string>
+			<key>Artist</key><string>Deadmau5</string>
+			<key>Album</key><string>VA - Fresh Club Music Releases of Electrohouse19.10.2008</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5800481</integer>
+			<key>Total Time</key><integer>362266</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-02-08T22:47:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:27:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>64</integer>
+			<key>Play Date</key><integer>3467177329</integer>
+			<key>Play Date UTC</key><date>2013-11-13T13:48:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-18T15:34:40Z</date>
+			<key>Normalization</key><integer>3587</integer>
+			<key>Persistent ID</key><string>89F6D626FEDBE8F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Deadmau5/VA%20-%20Fresh%20Club%20Music%20Releases%20of%20Electrohouse19.10.2008/Ghosts%20n%20Stuff.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17045</key>
+		<dict>
+			<key>Track ID</key><integer>17045</integer>
+			<key>Name</key><string>Louder (Flux Pavilion and Doctor P remix) </string>
+			<key>Artist</key><string>DJ Fresh</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5664747</integer>
+			<key>Total Time</key><integer>235598</integer>
+			<key>Date Modified</key><date>2011-06-19T20:48:34Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3464072352</integer>
+			<key>Play Date UTC</key><date>2013-10-08T15:19:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-09T19:45:31Z</date>
+			<key>Normalization</key><integer>13777</integer>
+			<key>Persistent ID</key><string>B5459C4B47DA6713</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/DJ%20Fresh/Unknown%20Album/Louder%20(Flux%20Pavilion%20and%20Doctor%20P%20remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>22301</key>
+		<dict>
+			<key>Track ID</key><integer>22301</integer>
+			<key>Name</key><string>Power</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album</key><string>Power</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7045183</integer>
+			<key>Total Time</key><integer>292075</integer>
+			<key>Date Modified</key><date>2011-08-14T22:02:46Z</date>
+			<key>Date Added</key><date>2013-07-14T06:31:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Converted by www.2conv.com</string>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-29T19:53:08Z</date>
+			<key>Persistent ID</key><string>983E86C1F2B0EF79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Kanye%20West/Power/Power.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>22441</key>
+		<dict>
+			<key>Track ID</key><integer>22441</integer>
+			<key>Name</key><string>Die Young</string>
+			<key>Artist</key><string>Ke$ha</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5123406</integer>
+			<key>Total Time</key><integer>212401</integer>
+			<key>Date Modified</key><date>2012-12-18T05:34:59Z</date>
+			<key>Date Added</key><date>2013-07-14T06:31:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3463170704</integer>
+			<key>Play Date UTC</key><date>2013-09-28T04:51:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-09T14:54:40Z</date>
+			<key>Persistent ID</key><string>3D7886E75F3DB9CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Ke$ha/Unknown%20Album/Die%20Young.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26147</key>
+		<dict>
+			<key>Track ID</key><integer>26147</integer>
+			<key>Name</key><string>Can't Hold Us [Ft. Ray Dalton]</string>
+			<key>Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Genre</key><string>Hip- Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6434722</integer>
+			<key>Total Time</key><integer>264986</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2012-10-16T06:06:24Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>RAP - BEATS</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456835092</integer>
+			<key>Play Date UTC</key><date>2013-07-16T20:58:12Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-03T17:12:21Z</date>
+			<key>Normalization</key><integer>5783</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>699C7DE7BB7DA410</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Macklemore%20&#38;%20Ryan%20Lewis/Unknown%20Album/Can't%20Hold%20Us%20%5BFt.%20Ray%20Dalton%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32351</key>
+		<dict>
+			<key>Track ID</key><integer>32351</integer>
+			<key>Name</key><string>Ignition (Remix)</string>
+			<key>Artist</key><string>R. Kelly</string>
+			<key>Album</key><string>Ignition CDS</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4692053</integer>
+			<key>Total Time</key><integer>189048</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-12-27T00:25:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:39:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Another Dope Rip</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-03T17:20:13Z</date>
+			<key>Normalization</key><integer>2297</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D07B4C1981D18E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/R.%20Kelly/Ignition%20CDS/Ignition%20(Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37131</key>
+		<dict>
+			<key>Track ID</key><integer>37131</integer>
+			<key>Name</key><string>Dynamite</string>
+			<key>Artist</key><string>Taio Cruz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4022721</integer>
+			<key>Total Time</key><integer>250775</integer>
+			<key>Date Modified</key><date>2013-01-05T11:16:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-09-28T04:48:03Z</date>
+			<key>Normalization</key><integer>680</integer>
+			<key>Persistent ID</key><string>46D129A9A28D1013</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Taio%20Cruz/Unknown%20Album/Dynamite.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40307</key>
+		<dict>
+			<key>Track ID</key><integer>40307</integer>
+			<key>Name</key><string>I Gotta Stay Fly</string>
+			<key>Artist</key><string>Three 6 Mafia ft. Young Buck, 8Ball &#38; MJG</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6812909</integer>
+			<key>Total Time</key><integer>237322</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-12-27T00:26:40Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:50Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Mad</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-03T17:20:17Z</date>
+			<key>Normalization</key><integer>2431</integer>
+			<key>Persistent ID</key><string>7F3F5B59C05CF608</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Three%206%20Mafia%20ft.%20Young%20Buck,%208Ball%20&#38;%20MJG/Unknown%20Album/I%20Gotta%20Stay%20Fly.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41367</key>
+		<dict>
+			<key>Track ID</key><integer>41367</integer>
+			<key>Name</key><string>Confessions Part II</string>
+			<key>Artist</key><string>Usher</string>
+			<key>Album</key><string>Confessions</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5450972</integer>
+			<key>Total Time</key><integer>229590</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-05-22T18:11:43Z</date>
+			<key>Date Added</key><date>2013-07-14T06:45:44Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ESCAPE</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3464465133</integer>
+			<key>Play Date UTC</key><date>2013-10-13T04:25:33Z</date>
+			<key>Normalization</key><integer>2423</integer>
+			<key>Persistent ID</key><string>27A71F412CC3C9AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Usher/Confessions/05%20Confessions%20Part%20II.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>43251</key>
+		<dict>
+			<key>Track ID</key><integer>43251</integer>
+			<key>Name</key><string>Follow U Ft. Ayah Marar (Xilent Remix)</string>
+			<key>Artist</key><string>Yogi</string>
+			<key>Album</key><string>Follow U</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7138025</integer>
+			<key>Total Time</key><integer>296986</integer>
+			<key>Date Modified</key><date>2011-11-30T03:38:13Z</date>
+			<key>Date Added</key><date>2013-07-14T06:47:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3458901356</integer>
+			<key>Play Date UTC</key><date>2013-08-09T18:55:56Z</date>
+			<key>Persistent ID</key><string>1FAB1DF4139405F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Yogi/Follow%20U/Follow%20U%20Ft.%20Ayah%20Marar%20(Xilent%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Pop and Go</string>
+			<key>Playlist ID</key><integer>90208</integer>
+			<key>Playlist Persistent ID</key><string>CCD16B82D3443CD2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40307</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

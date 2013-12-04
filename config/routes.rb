@@ -1,13 +1,14 @@
 Djsync::Application.routes.draw do
 
-  match 'fluxes/:id/vote_up' => 'fluxes#vote_up'
+  match 'songs/:id/vote_up' => 'songs#vote_up'
 
   match 'parties/new/upload' => 'parties#upload'
+  match 'parties/:id/library' => 'parties#library'
+  match 'parties/:id/player' => 'parties#player'
+
+  match 'songs/:id/reset' => 'songs#reset'
 
   resources :songs
-
-
-  resources :fluxes
 
 
   resources :parties
@@ -15,6 +16,7 @@ Djsync::Application.routes.draw do
 
   resources :users
 
+  root :to => 'home#index'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

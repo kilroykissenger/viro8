@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20131107211354) do
+ActiveRecord::Schema.define(:version => 20131125214017) do
 
   create_table "fluxes", :force => true do |t|
     t.integer  "score",      :default => 0
@@ -45,8 +45,10 @@ ActiveRecord::Schema.define(:version => 20131107211354) do
     t.string   "song_album"
     t.time     "song_duration"
     t.string   "song_location"
-    t.datetime "created_at",    :null => false
-    t.datetime "updated_at",    :null => false
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
+    t.integer  "party_id"
+    t.integer  "score",         :default => 0
   end
 
   create_table "users", :force => true do |t|

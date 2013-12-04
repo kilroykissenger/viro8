@@ -12,6 +12,10 @@
   <% end %>
 
   <div class="field">
+    <%= f.label :party_id %><br />
+    <%= f.text_field :party_id %>
+  </div>
+  <div class="field">
     <%= f.label :song_name %><br />
     <%= f.text_field :song_name %>
   </div>
@@ -31,6 +35,9 @@
     <%= f.label :song_location %><br />
     <%= f.text_field :song_location %>
   </div>
+
+    <%= link_to 'Reset Votes', {:controller => 'songs', :action => 'reset'} %>
+
   <div class="actions">
     <%= f.submit %>
   </div>

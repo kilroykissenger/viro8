@@ -40,8 +40,29 @@ class SongsController < ApplicationController
     end
   end
 
+  def reset
+    @song = Song.find(params[:id])
+    @song.update_attribute(:score, @song.score = 0)
+    @song.save
+
+    redirect_to :songs
+  end
+
+  def vote_up
+    @song  = Song.find(params[:id])
+
+    if !session[:votes].include? @song.id
+      session[:votes].push @song.id
+      @song.score = @song.score + 1
+      @song.save
+    end
+
+    redirect_to :back
+  end
+
   def index
     @songs = Song.all
+    @songs.sort!{|s1,s2|s2.score.to_i <=> s1.score.to_i}
 
     respond_to do |format|
       format.html # index.html.erb
@@ -64,7 +85,7 @@ class SongsController < ApplicationController
   # GET /songs/new.json
   def new
     @song = Song.new
-
+    # @song.party_id = @party.find(params[:id])
     respond_to do |format|
       format.html # new.html.erb
       format.json { render json: @song }

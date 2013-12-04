@@ -1,8 +1,8 @@
 class Party < ActiveRecord::Base
-  attr_accessible :start_date, :end_date, :url, :party_name, :party_location, :party_type, :party_details
+  attr_accessible :id, :start_date, :end_date, :url, :party_name, :party_location, :party_type, :party_details
   attr_accessible :playlist
 
-  has_many :fluxes
+  has_many :songs, :dependent => :destroy
   has_many :users
 
   def playlist=(uploaded_io)
@@ -50,8 +50,51 @@ class Party < ActiveRecord::Base
       else
         newFile.write line
       end
-    newFile.close
+
   end
+  newFile.close
+  import newFile
+  end
+
+  def import (newFile)
+    require 'rexml/document'
+    file = File.open(newFile, 'r:UTF-8')
+    xml = file.read
+
+    doc = REXML::Document.new(xml)
+
+    count = 0
+    doc.elements.each("plist/dict/dict/dict") do |dict|
+
+      #
+      # create a Track object for each "dict"
+      #
+      song = Song.new
+
+      if dict.elements['Name']
+        song.song_name= dict.elements['Name'].text
+      end
+
+      if dict.elements['Artist']
+        song.song_artist = dict.elements['Artist'].text
+      end
+
+      if dict.elements['Album']
+        song.song_album = dict.elements['Album'].text
+      end
+
+      if dict.elements['Total_Time']
+        song.song_duration = dict.elements['Total_Time'].text
+      end
+
+      if dict.elements['Location']
+        song.song_location = dict.elements['Location'].text
+      end
+
+      count += 1
+      song.party_id = id
+      song.save
+    end
 
   end
 
