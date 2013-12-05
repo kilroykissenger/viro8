@@ -45,7 +45,7 @@ class SongsController < ApplicationController
     @song.update_attribute(:score, @song.score = 0)
     @song.save
 
-    redirect_to :songs
+    redirect_to :back
   end
 
   def vote_up

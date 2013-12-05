@@ -6,7 +6,7 @@ class HomeController < ApplicationController
       if party
         redirect_to party
       else
-        flash[:error] = "Whoops! There is no party associated with that ID!"
+        flash[:error] = "Whoops! That party doesn't exist!"
         redirect_to :back
       end
     end

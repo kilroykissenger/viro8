@@ -1,12 +1,13 @@
 <div id="home_container">
 
-  <% if flash[:error] %>
-  <div style="color: red;">
-    <%= flash[:error] %>
-  </div>
-  <% end %>
-
   <img src="logo.gif" alt="logo"/>
+
+  <% if flash[:error] %>
+      <div class="error">
+        <%= flash[:error] %>
+      </div>
+  <% end %>
+  <br/>
 
   <div id="join_btn">
     <a href="#">Join a Party</a>
@@ -16,6 +17,7 @@
     <% end %>
 
   </div>
+
   <div>
     <a href="parties/new">Create a Party</a>
   </div>

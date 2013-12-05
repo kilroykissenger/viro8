@@ -5,9 +5,7 @@
   <tr>
     <th>Party ID</th>
     <th>Party</th>
-    <th>Start Time</th>
-    <th>Url</th>
-    <th></th>
+    <th>Identifier</th>
     <th></th>
     <th></th>
   </tr>
@@ -16,8 +14,7 @@
   <tr>
     <td><%= party.id %></td>
     <td><%= party.party_name %></td>
-    <td><%= party.start_date %></td>
-    <td><%= party.url %></td>
+    <td><%= party.identifier %></td>
     <td><%= link_to 'Show', party %></td>
     <td><%= link_to 'Edit', edit_party_path(party) %></td>
     <td><%= link_to 'Destroy', party, method: :delete, data: { confirm: 'Are you sure?' } %></td>

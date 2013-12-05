@@ -16,15 +16,22 @@
   </nav>
 </div>
 
+
+
 <div id="contentdiv">
-  <div id="notice"><%= notice %></div>
+  <% if flash[:notice] %>
+      <div id="notice">
+        <%= flash[:notice] %>
+      </div>
+  <% end %>
+  <br/>
   <div class="party_header">
       <h1><%= @party.party_name %>  <span class="button">View Party Details</span></h1>
       <div class="party_description">
         <h2 class="cf"><span>Party Type:</span><%= @party.party_type %></h2>
         <h2 class="cf"><span>Party Location:</span><%= @party.party_location %></h2>
         <h2 class="cf"><span>Party Time:</span><%= @party.start_date.strftime("%B %d, %Y at %I:%M%p") %></h2>
-        <h2 class="cf"><span>Party Identifier:</span>Your party identifier: <%= @party.identifier %></h2>
+        <h2 class="cf"><span>Party Identifier:</span><%= @party.identifier %></h2>
         <p>Party Details</p>
         <%= @party.party_details %>
       </div>   

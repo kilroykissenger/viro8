@@ -481,6 +481,27 @@ ul.playlist_container li p a{
 	padding: 1px 5px; 
 }
 
+.player{
+    padding:10px;
+}
+
+.error{
+    background-color:red;
+    color:white;
+    border:1px solid black;
+    padding:5px;
+    text-align:center;
+    font-weight:bold;
+}
+
+#notice{
+    background-color:blue;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    padding:5px;
+}
+
 
 /* edit pages*/
 

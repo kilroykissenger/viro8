@@ -16,5 +16,33 @@
   </nav>
 </div>
 
-<input type="file" accept="audio/*"/>
-<audio controls autoplay></audio>
+<div id="contentdiv">
+  <div id="notice"><%= notice %></div>
+  <div class="party_header">
+    <h1><%= @party.party_name %>  <span class="button">View Party Details</span></h1>
+    <div class="party_description">
+      <h2 class="cf"><span>Party Type:</span><%= @party.party_type %></h2>
+      <h2 class="cf"><span>Party Location:</span><%= @party.party_location %></h2>
+      <h2 class="cf"><span>Party Time:</span><%= @party.start_date.strftime("%B %d, %Y at %I:%M%p") %></h2>
+      <h2 class="cf"><span>Party Identifier:</span><%= @party.identifier %></h2>
+      <p>Party Details</p>
+      <%= @party.party_details %>
+    </div>
+  </div>
+
+
+<div class="player">
+
+<% playlist = @party.songs.select{|s| s.score > 0}.sort!{|f1,f2|f2.score.to_i <=> f1.score.to_i} %>
+
+Now Playing: <%= playlist.first.song_name %> by <%= playlist.first.song_artist %> <br/><br/>
+
+<audio controls autoplay>
+  <source src="<%= playlist.first.song_location %>" type="audio/mpeg">
+</audio>
+
+  <%= link_to 'Play Next Song', :controller => 'songs', :action => 'reset', :id => playlist.first.id %>
+
+</div>
+
+</div>
